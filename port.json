@@ -1,0 +1,13 @@
+{
+  "identifier": "walmart-shopping-assistant",
+  "title": "Shopping Assistant Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "experimental",
+    "criticality": "low",
+    "slack_channel": "#catalog-discovery"
+  },
+  "relations": {
+    "depends_on": []
+  }
+}

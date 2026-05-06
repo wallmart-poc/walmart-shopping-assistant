@@ -1,0 +1,4 @@
+# Optional AI shopping assistant (Gemini + AlloyDB vector search).
+# Conversational discovery surface, owned by the team that owns
+# catalog and product-discovery experiences.
+*   @wallmart-poc/catalog-discovery
